@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hallo, ich bin Bassel Ghurab! 👋
 
-<!--
-**basselali97/basselali97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Wirtschaftsinformatiker (B.Sc.) | Data Analyst & Cloud Enthusiast ☁️📊
 
-Here are some ideas to get you started:
+Willkommen auf meinem GitHub-Profil! Ich bin Absolvent der Wirtschaftsinformatik aus Berlin und brenne dafür, Rohdaten in wertvolle Entscheidungsgrundlagen (KPIs) für das Management zu verwandeln. Mein Fokus liegt auf der Schnittstelle zwischen Business Intelligence, Data Engineering und Cloud-Architekturen.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Über mich
+- 🎓 **Studium:** Wirtschaftsinformatik (B.Sc.) an der HTW Berlin.
+- 💡 **Fokus:** Business Intelligence, Data Warehousing, ETL-Pipelines & Prozessoptimierung.
+- 🏢 **Branchenerfahrung:** E-Commerce & Immobilienwirtschaft (Real Estate Data).
+- 🌱 **Aktuell lerne ich:** Vertiefung in Cloud-Infrastrukturen (AWS) und Advanced Data Analytics.
+- 🤝 **Soft Skills:** Hohe Stressresistenz, Empathie und ausgeprägte Kommunikationsstärke (durch jahrelange Arbeit im Gesundheitswesen).
+
+---
+
+### 💻 Mein Tech-Stack
+
+**Data & Business Intelligence:**
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+**Cloud & Programmierung:**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+---
+
+### 📈 Highlight-Projekte
+
+* 🏢 **[Real Estate Data Analytics & KPI Reporting](#)** *(Link folgt gleich)* <br>
+  Aufbau einer Datenpipeline (Python/Pandas) zur Analyse von Mietmarktdaten. Bereinigung von Rohdaten und Erstellung von Wirtschaftlichkeitsberechnungen sowie interaktiven Dashboards für das Asset Management.
+* 🛒 **E-Commerce Cloud Architecture (AWS)** <br>
+  Konzeption und End-to-End-Implementierung einer skalierbaren DWH- und BI-Infrastruktur unter Nutzung von AWS Glue, S3 und Athena im Rahmen meiner Bachelorarbeit.
+
+---
+
+### 📫 Kontakt
+Lass uns vernetzen! Ich bin immer offen für spannende Herausforderungen im Bereich Data Analytics und IT-Consulting.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bassel-ghurab)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ghurab1997@gmail.com)
