@@ -32,12 +32,11 @@ Willkommen auf meinem GitHub-Profil! Ich bin Absolvent der Wirtschaftsinformatik
 
 ### 📈 Highlight-Projekte
 
-* 🏢 **[Real Estate Data Analytics & KPI Reporting](#)** *(Link folgt gleich)* <br>
-  Aufbau einer Datenpipeline (Python/Pandas) zur Analyse von Mietmarktdaten. Bereinigung von Rohdaten und Erstellung von Wirtschaftlichkeitsberechnungen sowie interaktiven Dashboards für das Asset Management.
-* 🛒 **E-Commerce Cloud Architecture (AWS)** <br>
+* 🏢 **[Berlin Real Estate: Data Pipeline & Interactive Dashboard](https://github.com/basselali97/Real-Estate-Data-Analysis)** <br>
+  End-to-End Analytics-Pipeline (Python/Pandas) zur Überwachung des Berliner Mietmarktes. Web Scraping, komplexe Datenbereinigung und Erstellung eines interaktiven Geo-Dashboards mit Streamlit.
+  
+* 🛒 **[E-Commerce Cloud Architecture (AWS)](https://github.com/basselali97/AWS-ECommerce-BI-Architecture)** <br>
   Konzeption und End-to-End-Implementierung einer skalierbaren DWH- und BI-Infrastruktur unter Nutzung von AWS Glue, S3 und Athena im Rahmen meiner Bachelorarbeit.
-
----
 
 ### 📫 Kontakt
 Lass uns vernetzen! Ich bin immer offen für spannende Herausforderungen im Bereich Data Analytics und IT-Consulting.
